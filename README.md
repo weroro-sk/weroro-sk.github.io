@@ -1,6 +1,6 @@
 # Web Developer's Directory
 
-[Page](https://weroro.sk.github.io)
+[Page](https://weroro-sk.github.io)
 
 ### 🧑‍💻 Frontend Architect & Data Optimization Specialist
 
